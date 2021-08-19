@@ -1,0 +1,10 @@
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\bin\Debug\Laskin.exe.config
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\bin\Debug\Laskin.exe
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\bin\Debug\Laskin.pdb
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.csprojAssemblyReference.cache
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.Properties.Resources.resources
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.csproj.GenerateResource.cache
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.exe
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.pdb
+C:\Users\s2000934\Desktop\Isa\Isa.gataev\Repos\CRUD-projekti\CRUD-PROJEKTI\Harjoitus 3\Laskin\Laskin\obj\Debug\Laskin.Form1.resources
